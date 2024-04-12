@@ -1,0 +1,11 @@
+img {
+    max-width: 100%;
+}
+
+.my-carousel-item {
+    display: none;
+}
+
+.active {
+    display: block;
+}
